@@ -18,7 +18,7 @@
       "tsconfig": "tsconfig.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+         "Semantic/semantic.css"
       ],
       "scripts": [],
       "environments": {
